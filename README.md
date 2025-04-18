@@ -26,4 +26,4 @@ Program kemudian akan:
   - Nilai < 40     : E (Sangat Kurang)  
 
 ## Penutup  
-Jika ada saran atau masukan, silakan kontak saya ke [LinkedIn](https://www.linkedin.com/in/muhidrismar)
+Jika ada saran atau masukan, silakan kontak saya ke [LinkedIn](https://www.linkedin.com/in/muh-idris-mar)
